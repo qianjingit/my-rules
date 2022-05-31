@@ -14,5 +14,5 @@ DOMAIN-SUFFIX,Sfa.ddns.me
 DOMAIN-SUFFIX,Lnj.ddns.net
 DOMAIN-SUFFIX,hk.blueseamusicbox.best
 DOMAIN-SUFFIX,jp.blueseamusicbox.best
-IP-CIDR,64.32.25.204/8096,no-resolve
+IP-CIDR,64.32.25.204:8096,no-resolve
 
