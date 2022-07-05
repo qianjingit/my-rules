@@ -1,15 +1,30 @@
 # 内容：emby
 # 数量：2条
+
+# 关键字
 DOMAIN-KEYWORD,emby
+
+# 猫熊
 DOMAIN-SUFFIX,embyclub.maoxiong.cloud 
 DOMAIN-SUFFIX,emby.ssltd.xyz
 DOMAIN-SUFFIX,emby.kim 
 DOMAIN-SUFFIX,maoxiong.cloud 
 DOMAIN-SUFFIX,ssltd.xyz
+
+# 黑山
 DOMAIN-SUFFIX,hs.gcx920110.com
 DOMAIN-SUFFIX,sg.gcx920110.com
 DOMAIN-SUFFIX,cf.j2l.ink
+
+# 卡戎
 DOMAIN-SUFFIX,play.charontv.com 
+
+# han私服
 DOMAIN-SUFFIX,Sfa.ddns.me
 DOMAIN-SUFFIX,Lnj.ddns.net
+
+# 蓝海音乐
 DOMAIN-SUFFIX,hk.blueseamusicbox.best
+
+# 奥德赛
+DOMAIN-SUFFIX,odysseyplus.site
